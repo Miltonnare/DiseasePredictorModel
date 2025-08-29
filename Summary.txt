@@ -1,0 +1,1 @@
+The dataset used is the Heart Disease UCI dataset from Kaggle, which contains medical attributes for heart disease prediction.
