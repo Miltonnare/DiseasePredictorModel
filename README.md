@@ -15,3 +15,33 @@ A machine learning-based Disease Prediction System that predicts the likelihood 
 ✅ Interactive predictions with test input samples
 
 ✅ Well-structured Colab Notebook for easy understanding
+
+📈 Methodology
+
+Data Preprocessing
+
+Handling missing values
+
+Encoding categorical variables
+
+Feature scaling
+
+Model Training
+
+Trained using ML algorithms (Logistic Regression, Random Forest, etc.)
+
+Hyperparameter tuning applied for optimization
+
+Evaluation Metrics
+
+Accuracy, Precision, Recall, F1-score
+
+Confusion Matrix for visualization
+
+🖼️ Visualizations
+
+Data distribution plots (Seaborn, Matplotlib)
+
+Correlation heatmaps
+
+Accuracy comparison graphs between models
